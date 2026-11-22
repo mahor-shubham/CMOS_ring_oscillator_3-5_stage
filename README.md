@@ -35,6 +35,9 @@ Design and analysis of a 3-stage CMOS Ring Oscillator at 90 nm, 45 nm, and 22 nm
 
 Design and analysis of a 5-stage CMOS Ring Oscillator using the same technology nodes and supply voltage.
 
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/666ee7d9-7afd-410a-9e12-68c6381235fb" />
+
+
 **Parameters Analyzed:**
 - Oscillation Frequency
 - Propagation Delay
