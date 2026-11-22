@@ -23,9 +23,11 @@ The project also explores the effect of supply voltage variation on a 5-stage CM
 
 Design and analysis of a 3-stage CMOS Ring Oscillator at 90 nm, 45 nm, and 22 nm technology nodes with a constant supply voltage of 1 V.
 
+# Circuit Diagram 
+
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c9aa6e84-bd4a-4de5-97f8-dc6b2674803b" />
 
-Wave Form
+# Wave Form
 
 <img width="975" height="441" alt="image" src="https://github.com/user-attachments/assets/ca0724bf-73d1-498d-a06e-19037a0d854f" />
 
