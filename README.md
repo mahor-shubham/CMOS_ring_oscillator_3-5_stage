@@ -72,7 +72,7 @@ The project includes the following LTspice circuit schematics and documentation:
 |---|---|
 | `Three stage CMOS Ring Oscillator.asc` | 3-stage CMOS Ring Oscillator |
 | `Five stage CMOS Ring Oscillator.asc` | 5-stage CMOS Ring Oscillator |
-| `Project Report.pdf` | Detailed project documentation and analysis |
+| `PDF` | Detailed project documentation and analysis |
 
 ## 6. Tools and Technologies
 
